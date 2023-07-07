@@ -1,0 +1,42 @@
+.profile-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f7f7f7;
+  }
+  
+  .profile-title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .profile-id {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .profile-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-avatar {
+    margin-right: 20px;
+  }
+  
+  .avatar-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .profile-name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .profile-email {
+    font-size: 14px;
+    color: #888;
+  }
+  
